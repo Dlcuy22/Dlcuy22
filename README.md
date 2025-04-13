@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlcuy22&label=Profile%20views&color=0e75b6&style=flat" alt="dlcuy22" /> </p>
 
-
-- 🔭 I’m currently working on [gcore-utils](https://github.com/Dlcuy22/Gcore-utils)
-
 - 🌱 I’m currently learning **Golang and python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dlcuy22/](https://github.com/Dlcuy22/)
