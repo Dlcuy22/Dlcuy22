@@ -24,5 +24,5 @@
 <a href="https://github.com/dlcuy22"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcuy22&layout=compact&theme=dracula&hide_border=true"></a>
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me Here:</h3>
 <p><a href="https://ko-fi.com/Dlcuy22"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Dlcuy22" /></a></p><br><br>
