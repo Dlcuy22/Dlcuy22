@@ -34,7 +34,7 @@
 </p>
 
 <a href="https://github.com/dlcuy22">
-  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Dlcuy22">
+  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Dlcuy22&layout=compact&show_icons=true&theme=dracula&hide_border=true">
 </a>
 <a href="https://github.com/dlcuy22">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcuy22&layout=compact&theme=dracula&hide_border=true">
