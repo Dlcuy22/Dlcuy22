@@ -1,4 +1,3 @@
-<!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Asrian</h1>
 <h3 align="center">Backend Developer and DevOps Engineer</h3>
 
@@ -6,14 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=dlcuy22&label=Profile%20views&color=0e75b6&style=flat" alt="dlcuy22" />
 </p>
 
-<!-- Description -->
 - 🌱 Currently learning **Go, C#, and Python**
 - 🐳 Working with **Docker** and **DevOps engineering practices**
 - 👨‍💻 All of my projects are available at: **https://github.com/Dlcuy22/**
 - 💬 Ask me about **backend development, Go, Python, and deployment workflows**
 - 🎯 Interested in **backend programming** and **managing application deployments (DevOps)**
 
-<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -36,15 +33,13 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
 <a href="https://github.com/dlcuy22">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dlcuy22&line_height=20&show_icons=true&theme=dracula&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Dlcuy22">
 </a>
 <a href="https://github.com/dlcuy22">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcuy22&layout=compact&theme=dracula&hide_border=true">
 </a>
 
-<!-- Contact and Support -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/dlcuy22" target="blank">
