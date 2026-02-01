@@ -33,12 +33,10 @@
   </a>
 </p>
 
-<a href="https://github.com/dlcuy22">
-  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Dlcuy22&layout=compact&show_icons=true&theme=dracula&hide_border=true">
-</a>
-<a href="https://github.com/dlcuy22">
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dlcuy22&layout=compact&theme=dracula&hide_border=true">
-</a>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Dlcuy22&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dlcuy22&layout=compact&theme=dracula&hide_border=true"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
