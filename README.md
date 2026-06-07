@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=dlcuy22&label=Profile%20views&color=0e75b6&style=flat" alt="dlcuy22" />
 </p>
 
-- 🌱 Recently learning **fullstack**, but mainly focused on **backend**: high performance apps, microservices, and reliable DevOps practices
-- 🐹 My main language is **Go (Golang)**
+- 🌱 Recently learning **fullstack**, but mainly focused on **backend**
 - 🎛️ Also interested in **system programming** and **real-time programming**: check out [OngoPlayer/AudioEngine](https://github.com/OngoPlayer) for an example
 - 🐳 Working with **Docker** and **DevOps engineering practices**
 - 👨‍💻 All of my projects are available at: **https://github.com/Dlcuy22/**
