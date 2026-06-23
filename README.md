@@ -5,7 +5,7 @@
 </p>
 
 - 🌱 Recently learning **fullstack**, but mainly focused on **backend**
-- 🎛️ Also interested in **system programming** and **real-time programming**: check out [OngoPlayer/AudioEngine](https://github.com/OngoPlayer) for an example
+- 🎛️ Also interested in **system programming** and **real-time programming**: check out [OngoPlayer](https://github.com/dlcuy22/OngoPlayer)
 - 🐳 Working with **Docker** and **DevOps engineering practices**
 - 👨‍💻 All of my projects are available at: **https://github.com/Dlcuy22/**
 - 💬 Ask me about **backend development, Go, Python, and deployment workflows**
